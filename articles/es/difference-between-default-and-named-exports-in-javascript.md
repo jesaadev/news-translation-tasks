@@ -4,7 +4,7 @@ date: 2024-08-27T13:29:01.694Z
 author: Yazdun Fadali
 authorURL: https://www.freecodecamp.org/news/author/yazdun/
 originalURL: https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/
-posteditor: ""
+posteditor: "jesaadev"
 proofreader: ""
 ---
 
@@ -21,29 +21,29 @@ En este artículo, exploraremos las diferencias entre las exportaciones por defe
 ## Tabla de Contenidos
 
 -   [Lo que aprenderás][1]
--   [Comenzando][2]
+-   [Como empezar][2]
 -   [¿Qué son los módulos de JavaScript][3]?
 -   [¿Qué es exactamente la palabra clave export en JavaScript][4]?
 -   [¿Qué es la exportación por defecto en JavaScript][5]?
 -   [¿Qué es la exportación nombrada en JavaScript][6]?
--   [Cómo crear una aplicación simple usando módulos de JavaScript][7]
+-   [Cómo crear una aplicación sencilla usando módulos de JavaScript][7]
 -   [Conclusión][8]
 
 ## Lo que aprenderás
 
-En este tutorial, primero aprenderás sobre los módulos de JavaScript y cómo hacen que la codificación sea mejor y más fácil de gestionar. Explorarás exportaciones por defecto y exportaciones nombradas, comprendiendo cuándo usar cada una.
+En este tutorial, primero aprenderás sobre los módulos de JavaScript y cómo hacen que la codificación sea mejor y más fácil de gestionar. Explorarás exportaciones por defecto y exportaciones nombradas, comprendiendo cuándo usar cada uno de ellos.
 
-Para poner todo en práctica, crearás una simple aplicación de cambio de color que une todos los conceptos, haciendo tu experiencia de aprendizaje práctica.
+Para poner todo en práctica, crearás una simple aplicación de cambio de color que une todos los conceptos, haciendo que tu experiencia de aprendizaje sea práctica.
 
-También he creado un tutorial en video basado en este artículo. Puedes verlo [aquí en YouTube][9].
+También he creado un video tutorial basado en este artículo. Puedes verlo [aquí en YouTube][9].
 
 Aquí está la [Demostración en Vivo][10] de lo que estaremos creando:
 
-![Hay un botón en el centro de la pantalla, puedes hacer clic en este botón y cambiar el color de fondo del elemento body](https://www.freecodecamp.org/news/content/images/2023/08/ezgif-5-d38eb39cfc--1-.gif)
+![Hay un botón en el centro de la pantalla, puede hacer clic en este botón y cambiar el color de fondo del elemento del cuerpo](https://www.freecodecamp.org/news/content/images/2023/08/ezgif-5-d38eb39cfc--1-.gif)
 
 Aplicación de cambio de color
 
-## Comenzando
+## Como empezar
 
 Para comenzar con este tutorial, ya he preparado un proyecto de plantilla que contiene todas las dependencias necesarias. Esto elimina la necesidad de configurar tu proyecto desde cero.
 
